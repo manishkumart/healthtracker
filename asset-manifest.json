@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/healthtracker/static/css/main.d9fcdb85.css",
+    "main.js": "/healthtracker/static/js/main.916f75f6.js",
+    "index.html": "/healthtracker/index.html",
+    "main.d9fcdb85.css.map": "/healthtracker/static/css/main.d9fcdb85.css.map",
+    "main.916f75f6.js.map": "/healthtracker/static/js/main.916f75f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9fcdb85.css",
+    "static/js/main.916f75f6.js"
+  ]
+}
